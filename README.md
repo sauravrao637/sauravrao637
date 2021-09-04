@@ -1,4 +1,8 @@
-### Hi there 👋
+![Saurav's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravrao637&layout=compact&theme=dark)
+
+![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sauravrao637&show_icons=true&theme=dark&count_private=true)
+
+[![Saurav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CAMO0112&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sauravrao637/sauravrao637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
