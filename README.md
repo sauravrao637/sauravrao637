@@ -2,7 +2,7 @@
 
 ![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sauravrao637&show_icons=true&theme=dark&count_private=true)
 
-[![Saurav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CAMO0112&layout=compact&theme=dark)](https://wakatime.com/@CAMO0112)
+<!-- [![Saurav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CAMO0112&layout=compact&theme=dark)](https://wakatime.com/@CAMO0112) -->
 
 <!--
 **sauravrao637/sauravrao637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
