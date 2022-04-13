@@ -4,27 +4,27 @@
   <a href="https://www.linkedin.com/in/saurav-rao/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="mailto:saurav637@gmail.com">
+    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
+  </a>
   <a href="https://stackoverflow.com/users/15092122/saurav-rao">
     <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="https://www.codechef.com/users/camo">
-    <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
-    <a href="https://codeforces.com/profile/Camo0112">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codechef Badge"/>
-  </a>
+   
 </div>
    <img src="https://komarev.com/ghpvc/?username=sauravrao637&style=flat-square&color=blue" alt=""/>
    <h1>
-  Hello World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi! I'm Saurav. I work on Android.
 </h1>
 </div>
   
 ### :man_technologist: About Me :
-  * 🌱 I’m currently learning
-  * 💻 I do android dev in free time
-  * 🟤 Rust enthusiast
-  * ❤️ I like to contribute to open-source projects that interest me.
+  * 👨🏽‍💻 I try to teach machines using different languages.
+  * 💻 I work on Android Development
+  * ❤️ I love to contribute to open-source projects that interest me.
+  * 🟤 Kotlin and Rust enthusiast
+  * 🕵️ Love to explore new tech-stacks and technologies
+  * 📧 Always open to fun chats and conversations. Feel free to ping me @saurav637@gmail.com
 
 ### 💁 My Stats:
 
