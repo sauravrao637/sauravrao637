@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/saurav-rao/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="mailto:saurav637@gmail.com">
+   <a href="mailto:sauravrao637@gmail.com">
     <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/15092122/saurav-rao">
@@ -24,7 +24,7 @@
   * ❤️ I love to contribute to open-source projects that interest me.
   * 🟤 Kotlin and Rust enthusiast
   * 🕵️ Love to explore new tech-stacks and technologies
-  * 📧 Always open to fun chats and conversations. Feel free to ping me @saurav637@gmail.com
+  * 📧 Always open to fun chats and conversations. Feel free to ping me @sauravrao637@gmail.com
 
 ### 💁 My Stats:
 
