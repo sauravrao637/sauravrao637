@@ -23,6 +23,8 @@
   * 🏅[Overmind Broker it Yourself Winner ](https://overmind.xyz/quests/broker-it-yourself) **Skills:** Aptos · Move
   * 🏅[Overmind Slice The JPEG Winner](https://overmind.xyz/quests/slice-the-jpeg) **Skills:** Aptos · Move
   * 🏅[Overmind Split or Steal Winner](https://overmind.xyz/quests/split-or-steal) **Skills:** Aptos · Move
+  * 🏅[4th @DappWorld Smart Contract Contest-II](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
+  * 🏅[6th @DappWorld Smart Contract Contest-III](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
 
 # 🎨 My Projects
 ## Web3
