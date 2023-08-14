@@ -21,8 +21,12 @@
   * 🥇[Winner @DeveloperWeek Latin America 2023 Hackathon](https://devpost.com/software/xyz-bqx43s) **Skills:** Fullstack Dapp · Solidity · JS
   * 🏅[Honorable mention @BWC Series 3: Money Streaming](https://bwcseries3.hackerearth.com/challenges/hackathon/lancelot-hackathon-3/dashboard/77ebdac/submission/delieverease/) **Skills:** Fullstack Dapp · Solidity · JS
   * 🏅[Overmind Broker it Yourself Winner ](https://overmind.xyz/quests/broker-it-yourself) **Skills:** Aptos · Move
-  * 🏅[Overmind Slice The JPEG Winner](https://overmind.xyz/quests/slice-the-jpeg) **Skills:** Aptos · Move
+  * 🏅[Overmind Slice The JPEG Winner](https://overmind.xyz/quests/slice-the-jpeg) (Uncommon) **Skills:** Aptos · Move
   * 🏅[Overmind Split or Steal Winner](https://overmind.xyz/quests/split-or-steal) **Skills:** Aptos · Move
+  * 🏅[Overmind Diamonds are for Clicking Winner](https://overmind.xyz/quests/diamond-clicker) **Skills:** Aptos · Move
+  * 🏅[Overmind Senate of the Overminnd Winner](https://overmind.xyz/quests/senate-of-the-overmind) (Uncommon) **Skills:** Aptos · Move
+  * 🏅[Overmind Word-Hold On Winner](https://overmind.xyz/quests/word-hold-on) **Skills:** Aptos · Move
+  * 🏅[Overmind TicTacToe Winner](https://overmind.xyz/quests/tic-tac-toe) **Skills:** Aptos · Move
   * 🏅[4th @DappWorld Smart Contract Contest-II](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
   * 🏅[6th @DappWorld Smart Contract Contest-III](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
 
@@ -75,19 +79,3 @@ A cryptocurrency android app powered by Coingecko's API. The app is written in K
 * [AnkiDroid](https://apps.ankiweb.net/)
 * [Latexdraw](https://github.com/sauravrao637/latexdraw)
 
-# 💁 My Stats:
-
-<div align="center">
-  <div>
-  <img src = "https://github-readme-stats.vercel.app/api?username=sauravrao637&show_icons=true&theme=dark&count_private=true" width="400">
-  </div>
-<div>
-<a href="https://stackoverflow.com/users/15092122/saurav-rao"><img src="https://stackoverflow.com/users/flair/15092122.png?theme=dark" width="400" alt="profile for Saurav Rao at Stack Overflow" title="profile for Saurav Rao at Stack Overflow"></a>
-</div>
-  <div>
-    <a href="https://wakatime.com/@CAMO0112"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=CAMO0112&layout=compact&theme=dark" width="400" title="My Wakatime Stats"></a>
-  </div>
-<!--   <div>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sauravrao637&layout=compact&theme=dark" width="400">
-</div> -->
-</div>
