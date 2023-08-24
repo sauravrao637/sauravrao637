@@ -28,6 +28,8 @@
   * 🏅[Overmind Word-Hold On Winner](https://overmind.xyz/quests/word-hold-on) **Skills:** Aptos · Move
   * 🏅[Overmind TicTacToe Winner](https://overmind.xyz/quests/tic-tac-toe) **Skills:** Aptos · Move
   * 🏅[Overmind A Dev's Best Friend Winner](https://overmind.xyz/quests/a-devs-best-friend) **Skills:** Aptos · Move
+  * 🏅[Overmind Heads Up Winner](https://overmind.xyz/quests/heads-up) **Skills:** Aptos · Move
+  * 🥇[1st @DappWorld Smart Contract Contest-IV](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
   * 🏅[4th @DappWorld Smart Contract Contest-II](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
   * 🏅[6th @DappWorld Smart Contract Contest-III](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
 
