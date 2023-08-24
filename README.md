@@ -36,7 +36,7 @@
 # 🎨 My Projects
 ## Web3
 ### [Vault Boost](https://devpost.com/software/xyz-bqx43s)
-With Vault Boost, staking becomes effortless. The camoStaking contract, deployed on the Celo unleashes user's freedom by guaranteeing automatic and secure rewards for staking assets with no ownership transfer or freezing of assetes.
+With Vault Boost, staking becomes effortless. The camoStaking contract, deployed on the Celo unleashes user's freedom by guaranteeing automatic and secure rewards for staking assets with no ownership transfer or freezing of assets.
 
 🥇[Winner @DeveloperWeek Latin America 2023 Hackathon](https://devpost.com/software/xyz-bqx43s)
 
