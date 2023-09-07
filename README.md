@@ -20,15 +20,17 @@
 ## Achievements
   * 🥇[Winner @DeveloperWeek Latin America 2023 Hackathon](https://devpost.com/software/xyz-bqx43s) **Skills:** Fullstack Dapp · Solidity · JS
   * 🏅[Honorable mention @BWC Series 3: Money Streaming](https://bwcseries3.hackerearth.com/challenges/hackathon/lancelot-hackathon-3/dashboard/77ebdac/submission/delieverease/) **Skills:** Fullstack Dapp · Solidity · JS
-  * 🏅[Overmind Broker it Yourself Winner ](https://overmind.xyz/quests/broker-it-yourself) **Skills:** Aptos · Move
-  * 🏅[Overmind Slice The JPEG Winner](https://overmind.xyz/quests/slice-the-jpeg) (Uncommon) **Skills:** Aptos · Move
-  * 🏅[Overmind Split or Steal Winner](https://overmind.xyz/quests/split-or-steal) **Skills:** Aptos · Move
-  * 🏅[Overmind Diamonds are for Clicking Winner](https://overmind.xyz/quests/diamond-clicker) **Skills:** Aptos · Move
-  * 🏅[Overmind Senate of the Overminnd Winner](https://overmind.xyz/quests/senate-of-the-overmind) (Uncommon) **Skills:** Aptos · Move
-  * 🏅[Overmind Word-Hold On Winner](https://overmind.xyz/quests/word-hold-on) **Skills:** Aptos · Move
-  * 🏅[Overmind TicTacToe Winner](https://overmind.xyz/quests/tic-tac-toe) **Skills:** Aptos · Move
-  * 🏅[Overmind A Dev's Best Friend Winner](https://overmind.xyz/quests/a-devs-best-friend) **Skills:** Aptos · Move
-  * 🏅[Overmind Heads Up Winner](https://overmind.xyz/quests/heads-up) **Skills:** Aptos · Move
+  * 🏅[Overmind Broker it Yourself Prize Winner ](https://overmind.xyz/quests/broker-it-yourself) **Skills:** Aptos · Move
+  * 🏅[Overmind Slice The JPEG Prize Winner](https://overmind.xyz/quests/slice-the-jpeg) (Uncommon) **Skills:** Aptos · Move
+  * 🏅[Overmind Split or Steal Prize Winner](https://overmind.xyz/quests/split-or-steal) **Skills:** Aptos · Move
+  * 🏅[Overmind Diamonds are for Clicking Prize Winner](https://overmind.xyz/quests/diamond-clicker) **Skills:** Aptos · Move
+  * 🏅[Overmind Senate of the Overminnd Prize Winner](https://overmind.xyz/quests/senate-of-the-overmind) (Uncommon) **Skills:** Aptos · Move
+  * 🏅[Overmind Word-Hold On Prize Winner](https://overmind.xyz/quests/word-hold-on) **Skills:** Aptos · Move
+  * 🏅[Overmind TicTacToe Prize Winner](https://overmind.xyz/quests/tic-tac-toe) **Skills:** Aptos · Move
+  * 🏅[Overmind A Dev's Best Friend Prize Winner](https://overmind.xyz/quests/a-devs-best-friend) **Skills:** Aptos · Move
+  * 🏅[Overmind Heads Up Prize Winner](https://overmind.xyz/quests/heads-up) **Skills:** Aptos · Move
+  * 🏅[Overmind One For All Prize Winner](https://overmind.xyz/quests/one-for-all) **Skills:** Aptos · Move
+  * 🏅[Overmind Village Builder Prize Winner](https://overmind.xyz/quests/village-buidler) **Skills:** Aptos · Move
   * 🥇[1st @DappWorld Smart Contract Contest-IV](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
   * 🏅[4th @DappWorld Smart Contract Contest-II](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
   * 🏅[6th @DappWorld Smart Contract Contest-III](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
