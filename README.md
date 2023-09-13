@@ -31,6 +31,7 @@
   * 🏅[Overmind Heads Up Prize Winner](https://overmind.xyz/quests/heads-up) **Skills:** Aptos · Move
   * 🏅[Overmind One For All Prize Winner](https://overmind.xyz/quests/one-for-all) **Skills:** Aptos · Move
   * 🏅[Overmind Village Builder Prize Winner](https://overmind.xyz/quests/village-buidler) **Skills:** Aptos · Move
+  * 🥇[1st @DappWorld Smart Contract Contest-V](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
   * 🥇[1st @DappWorld Smart Contract Contest-IV](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
   * 🏅[4th @DappWorld Smart Contract Contest-II](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
   * 🏅[6th @DappWorld Smart Contract Contest-III](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
