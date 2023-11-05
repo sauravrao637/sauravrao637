@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center">              
  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180">
  <div id="badges">
   <a href="https://www.linkedin.com/in/saurav-rao/">
@@ -18,25 +18,11 @@
 </div>
 
 ## Achievements
-  * 🥇Rank 1 (Rating 2268) [@DappWorld Leaderboard](https://dapp-world.com/leaderboard)
-  * 🥇[Winner @DeveloperWeek Latin America 2023 Hackathon](https://devpost.com/software/xyz-bqx43s) **Skills:** Fullstack Dapp · Solidity · JS
-  * 🏅[Honorable mention @BWC Series 3: Money Streaming](https://bwcseries3.hackerearth.com/challenges/hackathon/lancelot-hackathon-3/dashboard/77ebdac/submission/delieverease/) **Skills:** Fullstack Dapp · Solidity · JS
-  * 🏅[Overmind Broker it Yourself Prize Winner ](https://overmind.xyz/quests/broker-it-yourself) **Skills:** Aptos · Move
-  * 🏅[Overmind Slice The JPEG Prize Winner](https://overmind.xyz/quests/slice-the-jpeg) (Uncommon) **Skills:** Aptos · Move
-  * 🏅[Overmind Split or Steal Prize Winner](https://overmind.xyz/quests/split-or-steal) **Skills:** Aptos · Move
-  * 🏅[Overmind Diamonds are for Clicking Prize Winner](https://overmind.xyz/quests/diamond-clicker) **Skills:** Aptos · Move
-  * 🏅[Overmind Senate of the Overminnd Prize Winner](https://overmind.xyz/quests/senate-of-the-overmind) (Uncommon) **Skills:** Aptos · Move
-  * 🏅[Overmind Word-Hold On Prize Winner](https://overmind.xyz/quests/word-hold-on) **Skills:** Aptos · Move
-  * 🏅[Overmind TicTacToe Prize Winner](https://overmind.xyz/quests/tic-tac-toe) **Skills:** Aptos · Move
-  * 🏅[Overmind A Dev's Best Friend Prize Winner](https://overmind.xyz/quests/a-devs-best-friend) **Skills:** Aptos · Move
-  * 🏅[Overmind Heads Up Prize Winner](https://overmind.xyz/quests/heads-up) **Skills:** Aptos · Move
-  * 🏅[Overmind One For All Prize Winner](https://overmind.xyz/quests/one-for-all) **Skills:** Aptos · Move
-  * 🏅[Overmind Village Builder Prize Winner](https://overmind.xyz/quests/village-buidler) **Skills:** Aptos · Move
-  * 🥇[1st @DappWorld Smart Contract Contest-V](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
-  * 🥇[1st @DappWorld Smart Contract Contest-IV](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
-  * 🥇[2nd @DappWorld Smart Contract Contest-VI](https://dapp-world.com/problem/blockchain-gaming-ecosystem/leaderboard?contest=6) **Skills:** Solidity · Gas Optimisation
-  * 🏅[4th @DappWorld Smart Contract Contest-II](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
-  * 🏅[6th @DappWorld Smart Contract Contest-III](https://dapp-world.com/smart-contract-contest) **Skills:** Solidity · Gas Optimisation
+  * 🥇Winner @[DeveloperWeek Latin America 2023 Hackathon](https://devpost.com/software/xyz-bqx43s) **Skills:** Fullstack Dapp · Solidity · JS
+  * 🏅Honorable mention @[BWC Series 3: Money Streaming](https://bwcseries3.hackerearth.com/challenges/hackathon/lancelot-hackathon-3/dashboard/77ebdac/submission/delieverease/) **Skills:** Fullstack Dapp · Solidity · JS
+  * 🥇Rank 3 (Rating 2341) @[DappWorld](https://dapp-world.com/soul/sauravrao637) **Skills:** Solidity · Gas Optimisation
+  * 🏅Rank 14 @[Overmind](https://overmind.xyz/@sauravrao637) **Skills:** Aptos · Move
+  * 🏅Host @[DappWorld Smart Contract Contest-VII](https://dapp-world.com/contests/contest-7)
 
 # 🎨 My Projects
 ## Web3
