@@ -7,7 +7,7 @@
   * 🥇Winner @[DeveloperWeek Latin America 2023 Hackathon](https://devpost.com/software/xyz-bqx43s) **Skills:** Fullstack Dapp · Solidity · JS
   * 🏅Honorable mention @[BWC Series 3: Money Streaming](https://bwcseries3.hackerearth.com/challenges/hackathon/lancelot-hackathon-3/dashboard/77ebdac/submission/delieverease/) **Skills:** Fullstack Dapp · Solidity · JS
   * 🥇Rank 3 (Rating 2341) @[DappWorld](https://dapp-world.com/soul/sauravrao637) **Skills:** Solidity · Gas Optimisation
-  * 🏅Rank 14 @[Overmind](https://overmind.xyz/@sauravrao637) **Skills:** Aptos · Move
+  * 🏅Rank 13 @[Overmind](https://overmind.xyz/@sauravrao637) **Skills:** Aptos · Move
   * 🏅Host @[DappWorld Smart Contract Contest-VII](https://dapp-world.com/contests/contest-7)
 
 # 🎨 My Projects
