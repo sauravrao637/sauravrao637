@@ -39,7 +39,7 @@ SolahParchiThap (SPT) is a decentralized game built on the Ethereum blockchain. 
 
 ## Android Apps
 ### Crohn's Aid App
-Implemented a full fledged android App to be used by clinicians which helped in differentiating between TB and Crohn's disease. The Clinical guidance was provided by AIIMS Delhi Team. The app ran ML algorithms in the backend server and the app communicated through in house API.Implemented a full fledged android App to be used by clinicians which helped in differentiating between TB and Crohn's disease. The Clinical guidance was provided by AIIMS Delhi Team. The app ran ML algorithms in the backend server and the app communicated through in house API.
+Implemented a full fledged android App to be used by clinicians which helped in differentiating between TB and Crohn's disease. The Clinical guidance was provided by AIIMS Delhi Team. The app ran ML algorithms in the backend server and the app communicated through in house API.
   
 **Skills:** Kotlin · Android Development · Android SDK · JUnitTesting · Android Studio · Retrofit
 
