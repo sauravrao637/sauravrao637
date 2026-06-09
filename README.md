@@ -1,61 +1,65 @@
-<div id="header" align="center">              
-   <h1>Hi! I'm Saurav</h1>
- I'm a Blockchain Engineer specializing in Aptos-Move and Solidity. My expertise in these domains has led me to win several contests and hackathons, demonstrating my proficiency and passion for smart contract development. I'm always ready to take on the next challenge in the blockchain space and contribute to shaping the future of decentralized applications. Let's connect and code the future!
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Saurav%20Rao&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Go%20%7C%20Rust%20%7C%20Open%20Source&descAlign=50&descAlignY=55" />
+</p>
 
-## Achievements
-  * 🥇Winner @[DeveloperWeek Latin America 2023 Hackathon](https://devpost.com/software/xyz-bqx43s) **Skills:** Fullstack Dapp · Solidity · JS
-  * 🏅Honorable mention @[BWC Series 3: Money Streaming](https://bwcseries3.hackerearth.com/challenges/hackathon/lancelot-hackathon-3/dashboard/77ebdac/submission/delieverease/) **Skills:** Fullstack Dapp · Solidity · JS
-  * 🥇Rank 3 (Rating 2341) @[DappWorld](https://dapp-world.com/soul/sauravrao637) **Skills:** Solidity · Gas Optimisation
-  * 🏅Rank 13 @[Overmind](https://overmind.xyz/@sauravrao637) **Skills:** Aptos · Move
-  * 🏅Host @[DappWorld Smart Contract Contest-VII](https://dapp-world.com/contests/contest-7)
+<p align="center">
+  <a href="https://github.com/sauravrao637">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+with+Go+and+Rust;Distributed+Systems+%26+Developer+Tools;Open+Source+Builder" />
+  </a>
+</p>
 
-# 🎨 My Projects
-## Web3
-### [Vault Boost](https://devpost.com/software/xyz-bqx43s)
-With Vault Boost, staking becomes effortless. The camoStaking contract, deployed on the Celo unleashes user's freedom by guaranteeing automatic and secure rewards for staking assets with no ownership transfer or freezing of assets.
+---
 
-🥇[Winner @DeveloperWeek Latin America 2023 Hackathon](https://devpost.com/software/xyz-bqx43s)
+### Hi, I'm Saurav 👋
 
-[<img src="https://img.youtube.com/vi/y8PR8iiRMxY/hqdefault.jpg" width="300" height="150"/>](https://www.youtube.com/embed/y8PR8iiRMxY)
+I'm a backend engineer building **scalable services**, **developer tools**, and **infrastructure-focused software**.
 
+I mostly work with **Go**, **Rust**, APIs, distributed systems, and network tooling.
 
-**Skills:** Solidity · Ganache · Truffle · Web3.js · React · RemixIDE · Celo · Celo Composer · JavaScript
+---
 
-### [BlockShipAssurance](https://bwcseries3.hackerearth.com/challenges/hackathon/lancelot-hackathon-3/dashboard/77ebdac/submission/delieverease/)
-It is a fully functional SuperFluid Powered Decentralized Shipment Tracking & Automatic Insurance Claim Payouts Dapp. Where shipper can subscirbe to platform using streams and pays the partner salary in the similar manner. The contract is deployed on Celo Mainnet and all the payments are done in G$.
+### Featured
 
-🏅[Honorable mention @BWC Series 3: Money Streaming](https://bwcseries3.hackerearth.com/challenges/hackathon/lancelot-hackathon-3/dashboard/77ebdac/submission/delieverease/)
+#### [oproxy](https://github.com/sauravrao637/oproxy)
 
-[<img src="https://img.youtube.com/vi/qTHU56vOOv4/hqdefault.jpg" width="300" height="150"/>](https://www.youtube.com/embed/qTHU56vOOv4)
+A Rust-based network proxy with a web interface and assistant support.
 
-**Skills:** Solidity · Hardhat · Web3.js · React · RemixIDE · Celo · Javascript
+It helps developers inspect, replay, mock, and modify HTTP/HTTPS/SOCKS5 traffic during development and testing.
 
-### [Solah Parchi Thap](https://github.com/sauravrao637/SPT)
+`Rust` · `Tokio` · `Axum` · `Hyper` · `TLS/MITM` · `Docker`
 
-SolahParchiThap (SPT) is a decentralized game built on the Ethereum blockchain. It allows players to participate in a multiplayer game where they can join a pool, play their turns, pass tokens (known as "Parchi"), and compete to be the first to complete a set of tokens.
+---
 
-**Skills:** Solidity · Ganache · Truffle · Web3.js · React · RemixIDE · EVM · Sepolia Testnet
+### Tech
 
-## Android Apps
-### Crohn's Aid App
-Implemented a full fledged android App to be used by clinicians which helped in differentiating between TB and Crohn's disease. The Clinical guidance was provided by AIIMS Delhi Team. The app ran ML algorithms in the backend server and the app communicated through in house API.
-  
-**Skills:** Kotlin · Android Development · Android SDK · JUnitTesting · Android Studio · Retrofit
+<p>
+  <img src="https://skillicons.dev/icons?i=go,rust,java,kotlin,docker,linux,postgres,redis,kafka,mysql,git,github" />
+</p>
 
+---
 
-### [Heart Rate Variability App](https://github.com/sauravrao637/Ip_Project)
-Android app that calculates heart rate variability using camera and fingertip.
+### Past Highlights
 
-**Skills:** Kotlin · Android Development · Android SDK · JUnitTesting · Android Studio · MATLAB · Digital Image Processing · Signal Processing
+- Winner — DeveloperWeek Latin America 2023 Hackathon
+- Honorable Mention — BWC Series 3: Money Streaming
+- Rank 3 — DappWorld smart contract contests
+- Rank 13 — Overmind Aptos Move
 
-### [Kripto](https://github.com/sauravrao637/Kripto)
-A cryptocurrency android app powered by Coingecko's API. The app is written in Kotlin and demonstrate MVVM and netowkring in Android apps with features like caching and notfication for price alerts.
+---
 
-**Skills:** Kotlin · Dependency Injection · Android Development · Android SDK · JUnitTesting · Android Studio · MATLAB · Digital Image Processing · Signal Processing · MVVM · Retrofit · Room Database
+### Connect
 
-# Open Source Contributions
-* [NewPipe](https://newpipe.net/)
-* [AnkiDroid](https://apps.ankiweb.net/)
-* [Latexdraw](https://github.com/sauravrao637/latexdraw)
-
+<p>
+  <a href="https://github.com/sauravrao637">
+    <img src="https://img.shields.io/badge/GitHub-sauravrao637-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/saurav-rao">
+    <img src="https://img.shields.io/badge/LinkedIn-Saurav%20Rao-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://stackoverflow.com/users/15092122/saurav-rao">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Saurav%20Rao-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/sauravrao637">
+    <img src="https://img.shields.io/badge/X-@sauravrao637-000000?style=flat-square&logo=x" />
+  </a>
+</p>
